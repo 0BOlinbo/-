@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:src="@drawable/baierqiutian" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="百二坵田风景区"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       百二坵田风景区为国家AAA级旅游景区。占地约3平方公里，素有“天然氧吧”的美誉。百二坵田背靠崎头岭，面对铁山岭，石洞幽深，巨石天成，清泉汩汩，松竹苍翠。山间小径纵横交错，形成一条条天然绿色通道，吸引众多登山爱好者至此登高望远，锻炼身心。2015年被评为国家3A级旅游风景区，成为集“生态旅游、宗教旅游、红色旅游”于一体的旅游胜地，每天游客络绎不绝。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

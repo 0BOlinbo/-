@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:src="@drawable/huilaihaibin" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="惠来海滨度假村"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       惠来海滨度假村为国家AAA级旅游景区。有休闲活动景区，露营烧烤区；度假村内有天然海滨浴场，宽广无垠；妈祖石雕像，威仪端庄，镇海安澜，神光普照；大象雕像，体态雄姿；溪东古炮台，坐镇海边；清山岩古庵辉煌雅致，殿内尽现道家特色；假山瀑布、小桥流水、亭台通栏，曲径幽林，鸟语花香；跨港拱桥，美若虹带；海边椰树林立，榕树成荫，到处奇花异草，怪石磷峋；“蛙龟对唱”自然景观，栩栩如生，海风吹拂，凉爽宜人，优美的自然景观与风景名胜融为一体。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

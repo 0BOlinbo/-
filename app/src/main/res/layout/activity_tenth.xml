@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="273dp"
+        android:src="@drawable/wangzhuyuan" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="万竹园"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       万竹园生态旅游景区为国家AAA级旅游景区。位于被称为“中国竹笋之乡”的埔田镇，占地面积约200亩，园内有旅游景点80处，是一处市级旅游景点。园区景点有八骏腾跃、丽日丹霞、云翠长廊、珠帘情话、云楼竹径、九曲回廊、昔日农家等。该园是广东省旅游扶贫重点项目、省“活力广东”优秀旅游景点、省旅游休闲示范单位、省农业旅游示范基地、市文化产业基地。2008年10月，万竹园被县评为爱国主义教育基地，同时也是揭东县文学协会的创作基地。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

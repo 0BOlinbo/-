@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="273dp"
+        android:src="@drawable/huangmanzhai" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="黄满寨瀑布"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       黄满寨瀑布群位于揭阳市揭西县京溪园粗坑村。千米河段上有多级瀑布，其中飞虹瀑布落差高度约60米，宽度约80米。银河瀑布高度约120米，集束奔流。还有三叠瀑、长寿瀑等，飞珠溅玉，声震山谷，瀑面似银帘悬天，瀑下潭水碧清，潭边的海龟石、海龙石等景观栩栩如生。享有“岭南第一瀑”的美誉。号称我国东南第一大瀑布，是国家AAAA级风景区，广东省地质公园。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>
