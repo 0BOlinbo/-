@@ -1,0 +1,204 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.zuoye"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\zuoye\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\zuoye\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\zuoye\app\src\main\AndroidManifest.xml:5:5-92:19
+12        android:allowBackup="true"
+12-->D:\zuoye\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\95863\.gradle\caches\transforms-3\249713548fb8d92d9c56becf07cdffea\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\zuoye\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->D:\zuoye\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\zuoye\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="家乡——揭阳旅游景点"
+19-->D:\zuoye\app\src\main\AndroidManifest.xml:10:9-35
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\zuoye\app\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->D:\zuoye\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Zuoye" >
+23-->D:\zuoye\app\src\main\AndroidManifest.xml:13:9-43
+24        <activity
+24-->D:\zuoye\app\src\main\AndroidManifest.xml:15:9-21:20
+25            android:name="com.example.zuoye.eleventh"
+25-->D:\zuoye\app\src\main\AndroidManifest.xml:16:13-37
+26            android:exported="false" >
+26-->D:\zuoye\app\src\main\AndroidManifest.xml:17:13-37
+27            <meta-data
+27-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+28                android:name="android.app.lib_name"
+28-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+29                android:value="" />
+29-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+30        </activity>
+31        <activity
+31-->D:\zuoye\app\src\main\AndroidManifest.xml:22:9-28:20
+32            android:name="com.example.zuoye.tenth"
+32-->D:\zuoye\app\src\main\AndroidManifest.xml:23:13-34
+33            android:exported="false" >
+33-->D:\zuoye\app\src\main\AndroidManifest.xml:24:13-37
+34            <meta-data
+34-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+35                android:name="android.app.lib_name"
+35-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+36                android:value="" />
+36-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+37        </activity>
+38        <activity
+38-->D:\zuoye\app\src\main\AndroidManifest.xml:29:9-35:20
+39            android:name="com.example.zuoye.nineth"
+39-->D:\zuoye\app\src\main\AndroidManifest.xml:30:13-35
+40            android:exported="false" >
+40-->D:\zuoye\app\src\main\AndroidManifest.xml:31:13-37
+41            <meta-data
+41-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+42                android:name="android.app.lib_name"
+42-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+43                android:value="" />
+43-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+44        </activity>
+45        <activity
+45-->D:\zuoye\app\src\main\AndroidManifest.xml:36:9-42:20
+46            android:name="com.example.zuoye.eighth"
+46-->D:\zuoye\app\src\main\AndroidManifest.xml:37:13-35
+47            android:exported="false" >
+47-->D:\zuoye\app\src\main\AndroidManifest.xml:38:13-37
+48            <meta-data
+48-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+49                android:name="android.app.lib_name"
+49-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+50                android:value="" />
+50-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+51        </activity>
+52        <activity
+52-->D:\zuoye\app\src\main\AndroidManifest.xml:43:9-49:20
+53            android:name="com.example.zuoye.seventh"
+53-->D:\zuoye\app\src\main\AndroidManifest.xml:44:13-36
+54            android:exported="false" >
+54-->D:\zuoye\app\src\main\AndroidManifest.xml:45:13-37
+55            <meta-data
+55-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+56                android:name="android.app.lib_name"
+56-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+57                android:value="" />
+57-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+58        </activity>
+59        <activity
+59-->D:\zuoye\app\src\main\AndroidManifest.xml:50:9-56:20
+60            android:name="com.example.zuoye.sixth"
+60-->D:\zuoye\app\src\main\AndroidManifest.xml:51:13-34
+61            android:exported="false" >
+61-->D:\zuoye\app\src\main\AndroidManifest.xml:52:13-37
+62            <meta-data
+62-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+63                android:name="android.app.lib_name"
+63-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+64                android:value="" />
+64-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+65        </activity>
+66        <activity
+66-->D:\zuoye\app\src\main\AndroidManifest.xml:57:9-63:20
+67            android:name="com.example.zuoye.fifth"
+67-->D:\zuoye\app\src\main\AndroidManifest.xml:58:13-34
+68            android:exported="false" >
+68-->D:\zuoye\app\src\main\AndroidManifest.xml:59:13-37
+69            <meta-data
+69-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+70                android:name="android.app.lib_name"
+70-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+71                android:value="" />
+71-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+72        </activity>
+73        <activity
+73-->D:\zuoye\app\src\main\AndroidManifest.xml:64:9-70:20
+74            android:name="com.example.zuoye.fourth"
+74-->D:\zuoye\app\src\main\AndroidManifest.xml:65:13-35
+75            android:exported="false" >
+75-->D:\zuoye\app\src\main\AndroidManifest.xml:66:13-37
+76            <meta-data
+76-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+77                android:name="android.app.lib_name"
+77-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+78                android:value="" />
+78-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+79        </activity>
+80        <activity
+80-->D:\zuoye\app\src\main\AndroidManifest.xml:71:9-77:20
+81            android:name="com.example.zuoye.third"
+81-->D:\zuoye\app\src\main\AndroidManifest.xml:72:13-34
+82            android:exported="false" >
+82-->D:\zuoye\app\src\main\AndroidManifest.xml:73:13-37
+83            <meta-data
+83-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+84                android:name="android.app.lib_name"
+84-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+85                android:value="" />
+85-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+86        </activity>
+87        <activity
+87-->D:\zuoye\app\src\main\AndroidManifest.xml:78:9-90:20
+88            android:name="com.example.zuoye.MainActivity"
+88-->D:\zuoye\app\src\main\AndroidManifest.xml:79:13-41
+89            android:exported="true" >
+89-->D:\zuoye\app\src\main\AndroidManifest.xml:80:13-36
+90            <intent-filter>
+90-->D:\zuoye\app\src\main\AndroidManifest.xml:81:13-85:29
+91                <action android:name="android.intent.action.MAIN" />
+91-->D:\zuoye\app\src\main\AndroidManifest.xml:82:17-69
+91-->D:\zuoye\app\src\main\AndroidManifest.xml:82:25-66
+92
+93                <category android:name="android.intent.category.LAUNCHER" />
+93-->D:\zuoye\app\src\main\AndroidManifest.xml:84:17-77
+93-->D:\zuoye\app\src\main\AndroidManifest.xml:84:27-74
+94            </intent-filter>
+95
+96            <meta-data
+96-->D:\zuoye\app\src\main\AndroidManifest.xml:18:13-20:36
+97                android:name="android.app.lib_name"
+97-->D:\zuoye\app\src\main\AndroidManifest.xml:19:17-52
+98                android:value="" />
+98-->D:\zuoye\app\src\main\AndroidManifest.xml:20:17-33
+99        </activity>
+100        <activity android:name="com.example.zuoye.second" />
+100-->D:\zuoye\app\src\main\AndroidManifest.xml:91:9-44
+100-->D:\zuoye\app\src\main\AndroidManifest.xml:91:19-41
+101
+102        <provider
+102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+103            android:name="androidx.startup.InitializationProvider"
+103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+104            android:authorities="com.example.zuoye.androidx-startup"
+104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+105            android:exported="false" >
+105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+106            <meta-data
+106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+107                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+108                android:value="androidx.startup" />
+108-->[androidx.emoji2:emoji2:1.0.0] C:\Users\95863\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+109            <meta-data
+109-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\95863\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+110                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+110-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\95863\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+111                android:value="androidx.startup" />
+111-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\95863\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+112        </provider>
+113    </application>
+114
+115</manifest>

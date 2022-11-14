@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="244dp"
+        android:src="@drawable/dananshan" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大南山八国风情园"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       大南山八国风情园为国家AAA级旅游景区。位于揭阳市大南山华侨管理区，面积300亩，经过多年努力建成了泰国四面佛广场、新加坡鱼尾狮、缅甸玉女、瑞沁湖和大象乐园等人文景观，以及观光茶园、樱花园和四季果园等自然景观，配套了东南亚餐厅、越南茶苑和缅甸康怡园等接待服务设施，集观光、游玩、餐饮于一体的特色文化生态旅游度假区。八国风情园于2014年被省农业厅、省旅游局联合评定为广东省休闲农业与乡村旅游示范点。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

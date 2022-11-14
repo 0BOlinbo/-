@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:background="@drawable/shouye"
+        android:gravity="left"
+        android:text="最美揭阳"
+        android:textColor="@color/black"
+        android:textSize="50dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview2"
+        android:text="揭阳市十大热门景点"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="@color/yanhong"
+        android:background="@drawable/yuanjiaotext"
+        android:layout_below="@id/textview1"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/textview2"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:background="@color/white"
+        android:text="黄满寨瀑布"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/textview2"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp"
+        android:background="@color/white"
+        android:text="揭阳学宫"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button1"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:background="@color/white"
+        android:text="望天湖度假区"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button2"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp"
+        android:background="@color/white"
+        android:text="德安里"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button3"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:background="@color/white"
+        android:text="世铿院"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button4"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp"
+        android:background="@color/white"
+        android:text="惠来海滨"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button5"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:background="@color/white"
+        android:text="大洋国际度假村"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button6"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp"
+        android:background="@color/white"
+        android:text="大南山风情园"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button7"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:background="@color/white"
+        android:text="万竹园"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/button8"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp"
+        android:background="@color/white"
+        android:text="百二坵田风景区"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview3"
+        android:text="点击以上选项可了解景点详情~"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:textColor="@color/yanhong"
+        android:layout_marginTop="680dp"/>
+
+</RelativeLayout>

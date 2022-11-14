@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hui">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="274dp"
+        android:src="@drawable/jieyangxuegong" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="揭阳学宫"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       揭阳学宫又称“孔庙”，位于榕城区韩祠路口东侧，具有明清古建筑的风格和鲜明的潮汕古建筑特色，有“粤东古建筑明珠”美誉。揭阳学宫始建于南宋绍兴十年（1140年），浓缩了千年儒家文化精髓，现存建筑组群由21座单体建筑构成，是岭南地区规模最大、配套建筑最完善、保存最完整的同类历史建筑组群，也是省内唯一一处以“周恩来同志革命活动旧址”命名的文保单位。2013年5月，国务院核定公布为第七批全国重点文物保护单位。"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>
