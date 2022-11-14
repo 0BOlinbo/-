@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "com.example.zuoye.app-merged_res-25:/drawable_yuanjiaotext.xml.flat",
+        "source": "com.example.zuoye.app-main-27:/drawable/yuanjiaotext.xml"
+    },
+    {
+        "merged": "com.example.zuoye.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.zuoye.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_wangzhuyuan.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\wangzhuyuan.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_dananshan.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\dananshan.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_baierqiutian.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\baierqiutian.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_eleventh.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_eleventh.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_jieyangxuegong.jpeg.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\jieyangxuegong.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_third.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_nineth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_nineth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_second.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\second.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_fourth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_fourth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_yuanjiaotext.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\yuanjiaotext.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_huangmanzhai.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\huangmanzhai.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_andeli.jpeg.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\andeli.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_wangtianhu.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\wangtianhu.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\color_button_color.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\color\\button_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_shikengyuan.png.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\shikengyuan.png"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_dayangguojidujiacun.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\dayangguojidujiacun.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_fifth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_fifth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_shouye.jpeg.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\shouye.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_eighth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_eighth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_tenth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_tenth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_seventh.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_seventh.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\layout_activity_sixth.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\layout\\activity_sixth.xml"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable_huilaihaibin.webp.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-main-27:\\drawable\\huilaihaibin.webp"
+    },
+    {
+        "merged": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\95863\\.gradle\\daemon\\7.4\\com.example.zuoye.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]
